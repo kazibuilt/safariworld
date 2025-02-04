@@ -50,7 +50,7 @@
 				let e, t, i, l, a;
 				let s = (0, r.c)(5);
 				return s[0] === Symbol.for("react.memo_cache_sentinel") ? (e = (0, n.jsx)(f, {
-					children: "Start Planning Your Tailor-made Retreat."
+					children: "Time to start thinking up a clever Out of Office reply."
 				}), s[0] = e) : e = s[0], s[1] === Symbol.for("react.memo_cache_sentinel") ? (t = (0, n.jsx)("br", {}), s[1] = t) : t = s[1], s[2] === Symbol.for("react.memo_cache_sentinel") ? (i = (0, n.jsxs)(x, {
 					children: ["Safari World Ltd. \xa92025", t, "69 Kisembe Lane", (0, n.jsx)("br", {}), "Nairobi, Kenya"]
 				}), s[2] = i) : i = s[2], s[3] === Symbol.for("react.memo_cache_sentinel") ? (l = (0, n.jsxs)(C, {
