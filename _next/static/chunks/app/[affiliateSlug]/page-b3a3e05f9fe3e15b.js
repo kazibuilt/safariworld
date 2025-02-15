@@ -408,7 +408,7 @@
 					  }),
 					  (0, n.jsx)(L, {}),
 					  (0, n.jsx)(F, {
-						children: (0, n.jsx)(R, { children: "Nature calls." }),
+						children: (0, n.jsx)(R, { children: "" }),
 					  }),
 					  (0, n.jsxs)(K, {
 						children: [
